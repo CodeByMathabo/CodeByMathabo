@@ -7,7 +7,7 @@
 
 ## I’m currently working on:
 
-* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**, a backend system designed to empower users to package and sell their skills as services.
+* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**.
 
 ## My Tech Stack:
 
