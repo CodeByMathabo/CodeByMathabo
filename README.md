@@ -1,13 +1,13 @@
 ## Hi, I'm Mathabo
 
-* I am a software engineer with a focus on backend development and system architecture.
+* I am a software developer with a focus on backend development and system architecture.
 * My goal is to build robust, scalable, and maintainable software solutions using the Java ecosystem.
 
 --------------------------------------------------------------------------------------------------------------------------
 
 ## I’m currently working on:
 
-* Building the **[Proactive Service Platform](link-to-your-project-repo)**, a backend system designed to empower users to package and sell their skills as services.
+* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**, a backend system designed to empower users to package and sell their skills as services.
 
 ## My Tech Stack:
 
