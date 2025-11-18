@@ -7,14 +7,14 @@
 
 ## I’m currently working on:
 
-* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**, acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring for both clients and internal teams.
+* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**, that acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring for both clients and internal teams.
 
 ## My Tech Stack:
 
-* **Backend:** Java, Spring Boot, Spring Data JPA, REST API
-* **Databases:** PostgreSQL, Oracle, Supabase
-* **Concepts:** Object-Oriented Programming (OOP), Role-Based Access Control (RBAC), Secure API Design
-* **Tools:** Git, Docker, Maven
+* **Backend:** Java, Spring Boot, Spring Data JPA, REST API, C#
+* **Databases:** PostgreSQL, Oracle, Supabase, Azure SQL Database
+* **Concepts:** Object-Oriented Programming (OOP), Role-Based Access Control (RBAC), Secure API Design, Containerized Continuous Deployment 
+* **Tools:** Git, Docker, Maven, Azure pipeline, Azure App Service
 
 ## My current collaboration projects:
 
