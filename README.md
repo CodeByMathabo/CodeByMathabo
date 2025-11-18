@@ -7,7 +7,7 @@
 
 ## I’m currently working on:
 
-* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**.
+* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**, acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring for both clients and internal teams.
 
 ## My Tech Stack:
 
