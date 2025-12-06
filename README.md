@@ -15,16 +15,16 @@
 * **Cloud & DevOps:** AWS, Docker, Docker Compose, Azure DevOps, Azure Pipelines, CI/CD, Containerization
 * **Languages:** C#, Java, JavaScript, SQL, HTML, CSS
 * **Frameworks:** .NET 8, Blazor, ASP.NET Identity, Entity Framework Core, Spring Boot
-* **Databases:** PostgreSQL, Azure SQL Database, Supabase
+* **Databases:** PostgreSQL, Azure SQL Database, LocalDb
 * **Concepts:** System Architecture, Cloud Infrastructure, Role-Based Access Control (RBAC), Secure API Design, Database Normalization
 
 ## Featured Projects:
 
 * **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
-  * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via GitHub Actions and Azure.
+  * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via **Azure Pipelines** and **Azure App Service**.
   
 * **[Gift of the Givers Foundation Web App](https://github.com/CodeByMathabo/GiftOfTheGiver_Foundation)**
-  * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration.
+  * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration automated via **Azure Pipelines** and    **Azure App Service**.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
