@@ -8,7 +8,7 @@
 
 ## I’m currently working on:
 
-* Building **[ToroTrack](https://github.com/CodeByMathabo/ToroTrack)**, a containerized client collaboration and internal tracking tool. It acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring, featuring a fully automated CI/CD pipeline.
+* Building **[S3entinel](https://github.com/CodeByMathabo/ToroTrack)**, a containerized client collaboration and internal tracking tool. It acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring, featuring a fully automated CI/CD pipeline.
 
 ## My Tech Stack:
 
