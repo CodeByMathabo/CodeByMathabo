@@ -1,26 +1,30 @@
 ## Hi, I'm Mathabo
 
-* I am a software developer with a focus on backend development and system architecture.
-* My goal is to build robust, scalable, and maintainable software solutions using the Java ecosystem.
+* I am a software developer transitioning into **Cloud Architecture** and **DevOps Engineering**.
+* My goal is to design robust, scalable, and secure cloud infrastructure while continuing to build high-performance applications using the **.NET** and **Java** ecosystems.
+* I am currently studying for the **AWS Cloud Practitioner** exam to validate my cloud architectural skills.
 
 --------------------------------------------------------------------------------------------------------------------------
 
 ## I’m currently working on:
 
-* Building the **[ Client collaboration and internal tracking tool](link-to-your-project-repo)**, that acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring for both clients and internal teams.
+* Building **[ToroTrack](link-to-your-project-repo)**, a containerized client collaboration and internal tracking tool. It acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring, featuring a fully automated CI/CD pipeline.
 
 ## My Tech Stack:
 
-* **Backend:** Java, Spring Boot, Spring Data JPA, REST API, C#
-* **Databases:** PostgreSQL, Oracle, Supabase, Azure SQL Database
-* **Concepts:** Object-Oriented Programming (OOP), Role-Based Access Control (RBAC), Secure API Design, Containerized Continuous Deployment 
-* **Tools:** Git, Docker, Maven, Azure pipeline, Azure App Service
+* **Cloud & DevOps:** AWS, Docker, Docker Compose, Azure DevOps, Azure Pipelines, CI/CD, Containerization
+* **Languages:** C#, Java, JavaScript, SQL
+* **Frameworks:** .NET 8, Blazor, ASP.NET Identity, Entity Framework Core, Spring Boot
+* **Databases:** PostgreSQL, Azure SQL Database, Supabase
+* **Concepts:** System Architecture, Cloud Infrastructure, Role-Based Access Control (RBAC), Secure API Design, Database Normalization
 
-## My current collaboration projects:
+## Featured Projects:
 
-* Building a Client collaboration and internal tracking tool
-* Built a luggage delivery app
-* Built a safety and compliance app for multiple job sectors
+* **[ToroTrack | Client Collaboration Tool](link-to-your-project-repo)**
+  * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via GitHub Actions and Azure.
+  
+* **[Gift of the Givers Foundation Web App](link-to-your-project-repo)**
+  * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
