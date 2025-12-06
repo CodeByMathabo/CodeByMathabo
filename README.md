@@ -8,7 +8,7 @@
 
 ## I’m currently working on:
 
-* Building **[ToroTrack](link-to-your-project-repo)**, a containerized client collaboration and internal tracking tool. It acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring, featuring a fully automated CI/CD pipeline.
+* Building **[ToroTrack](https://github.com/CodeByMathabo/ToroTrack)**, a containerized client collaboration and internal tracking tool. It acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring, featuring a fully automated CI/CD pipeline.
 
 ## My Tech Stack:
 
@@ -20,7 +20,7 @@
 
 ## Featured Projects:
 
-* **[ToroTrack | Client Collaboration Tool](link-to-your-project-repo)**
+* **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
   * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via GitHub Actions and Azure.
   
 * **[Gift of the Givers Foundation Web App](link-to-your-project-repo)**
