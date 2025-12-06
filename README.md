@@ -8,7 +8,7 @@
 
 ## I’m currently working on:
 
-* Building **[S3entinel](https://github.com/CodeByMathabo/ToroTrack)**, a containerized client collaboration and internal tracking tool. It acts as a central hub for managing projects by combining communication, file sharing, and progress monitoring, featuring a fully automated CI/CD pipeline.
+* Building **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**, a backend API that lets users securely upload files (images or PDFs), which triggers an asynchronous analysis process to extract metadata and store it in a NoSQL database, featuring fully automated infrastructure provisioning via AWS SAM (Infrastructure as Code).
 
 ## My Tech Stack:
 
@@ -25,6 +25,10 @@
   
 * **[Gift of the Givers Foundation Web App](https://github.com/CodeByMathabo/GiftOfTheGiver_Foundation)**
   * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration automated via **Azure Pipelines** and    **Azure App Service**.
+ 
+* **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**
+  * A backend API that lets users securely upload files which triggers an asynchronous metadata extraction process, featuring fully automated infrastructure provisioning via AWS SAM.
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
