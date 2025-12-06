@@ -13,7 +13,7 @@
 ## My Tech Stack:
 
 * **Cloud & DevOps:** AWS, Docker, Docker Compose, Azure DevOps, Azure Pipelines, CI/CD, Containerization
-* **Languages:** C#, Java, JavaScript, SQL
+* **Languages:** C#, Java, JavaScript, SQL, HTML, CSS
 * **Frameworks:** .NET 8, Blazor, ASP.NET Identity, Entity Framework Core, Spring Boot
 * **Databases:** PostgreSQL, Azure SQL Database, Supabase
 * **Concepts:** System Architecture, Cloud Infrastructure, Role-Based Access Control (RBAC), Secure API Design, Database Normalization
