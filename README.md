@@ -23,7 +23,7 @@
 * **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
   * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via GitHub Actions and Azure.
   
-* **[Gift of the Givers Foundation Web App](link-to-your-project-repo)**
+* **[Gift of the Givers Foundation Web App](https://github.com/CodeByMathabo/GiftOfTheGiver_Foundation)**
   * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration.
 
 ----------------------------------------------------------------------------------------------------------------------------
