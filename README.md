@@ -12,11 +12,11 @@
 
 ## My Tech Stack:
 
-* **Cloud & DevOps:** AWS (Currently Studying), AWS SAM, Infrastructure as Code (IaC), Docker, Docker Compose, Azure DevOps, Azure Pipelines, CI/CD.
-* **Languages:** C#, Java, JavaScript, SQL, HTML, CSS
-* **Frameworks:** .NET 8, Blazor, ASP.NET Identity, Entity Framework Core, Spring Boot
+* **Cloud & DevOps:** AWS (Currently Studying), AWS SAM, Infrastructure as Code (IaC), AWS IAM, AWS Security Group, Docker, Docker Compose, Azure DevOps, Azure Pipelines, CI/CD.
+* **Languages:** C#, Java, JavaScript, SQL, HTML, CSS, PHP
+* **Frameworks:** .NET 8, Blazor, ASP.NET Identity, Entity Framework Core, Spring Boot, Laravel.
 * **Databases:** PostgreSQL, Azure SQL Database, LocalDb
-* **Concepts:** System Architecture, Cloud Infrastructure, Role-Based Access Control (RBAC), Secure API Design, Database Normalization
+* **Concepts:** System Architecture, Cloud Infrastructure, Role-Based Access Control (RBAC), Secure API Design, Database Normalization, ACID compliance
 
 ## Featured Projects:
 
