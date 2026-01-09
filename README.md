@@ -8,7 +8,7 @@
 
 ## I’m currently working on:
 
-* Building **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**, a backend API that lets users securely upload files (images or PDFs), which triggers an asynchronous analysis process to extract metadata and store it in a NoSQL database, featuring fully automated infrastructure provisioning via AWS SAM (Infrastructure as Code).
+* Building **[Grit Ledger](https://github.com/CodeByMathabo/Mofani)**, a PHP API that simulates a banking backend. It allows users to transfer "money" between accounts. It focuses on ACID compliance (ensuring money never disappears during a crash) and uses AWS services to host it.
 
 ## My Tech Stack:
 
@@ -23,11 +23,14 @@
 * **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
   * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via **Azure Pipelines** and **Azure App Service**.
   
-* **[Mofani](https://github.com/CodeByMathabo/GiftOfTheGiver_Foundation)**
+* **[Mofani](https://github.com/CodeByMathabo/Mofani)**
   * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration automated via **Azure Pipelines** and    **Azure App Service**.
  
 * **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**
   * A backend API that lets users securely upload files which triggers an asynchronous metadata extraction process, featuring fully automated infrastructure provisioning via AWS SAM.
+
+* **[Grit Ledger](https://github.com/CodeByMathabo/Mofani)**
+  * A PHP API that allows users to transfer "money" between accounts while ensuring money never disappears during a crash.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
