@@ -8,7 +8,7 @@
 
 ## I’m currently working on:
 
-* Building **[Grit Ledger](https://github.com/CodeByMathabo/Mofani)**, a PHP API that simulates a banking backend. It allows users to transfer "money" between accounts. It focuses on ACID compliance (ensuring money never disappears during a crash) and uses AWS services to host it.
+* Building **[Grit Ledger](https://github.com/CodeByMathabo/Grit-Ledger)**, a PHP API that simulates a banking backend. It allows users to transfer "money" between accounts. It focuses on ACID compliance (ensuring money never disappears during a crash) and uses AWS services to host it.
 
 ## My Tech Stack:
 
@@ -29,7 +29,7 @@
 * **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**
   * A backend API that lets users securely upload files which triggers an asynchronous metadata extraction process, featuring fully automated infrastructure provisioning via AWS SAM.
 
-* **[Grit Ledger](https://github.com/CodeByMathabo/Mofani)**
+* **[Grit Ledger](https://github.com/CodeByMathabo/Grit-Ledger)**
   * A PHP API that allows users to transfer "money" between accounts while ensuring money never disappears during a crash.
 
 
