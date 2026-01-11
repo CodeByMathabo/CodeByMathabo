@@ -32,7 +32,7 @@
 * **[Grit Ledger](https://github.com/CodeByMathabo/Grit-Ledger)**
   * A PHP API that allows users to transfer "money" between accounts while ensuring money never disappears during a crash.
 
-* **[Velosales](https://github.com/CodeByMathabo/Velosales)**
+* **[Velosales](https://github.com/CodeByMathabo/Velosales.git)**
   * A feature that calculates how fast specific products are selling. It acts as a backend utility for a larger inventory system. It is a Java REST API that accepts sales data batches and returns stock velocity metrics. 
 ----------------------------------------------------------------------------------------------------------------------------
 
