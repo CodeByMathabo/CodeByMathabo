@@ -8,7 +8,7 @@
 
 ## I’m currently working on:
 
-* Building **[Static](https://github.com/CodeByMathabo/Grit-Ledger)**, a high-availability Java application designed for the South African Department of Home Affairs. It solves the "System is Down" bottleneck.
+* Building **[Static](https://github.com/CodeByMathabo/Static.git)**, a high-availability Java application designed for the South African Department of Home Affairs. It solves the "System is Down" bottleneck.
 
 ## My Tech Stack:
 
