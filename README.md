@@ -1,44 +1,85 @@
-## Hi, I'm Mathabo
+## Hi, I'm Mathabo Motaung
+I am an aspiring software developer with a passion for solving problems through code. I recently graduated and am looking for my first professional role where I can contribute and learn from a strong team.
 
-* I am a software developer transitioning into **Cloud Architecture** and **DevOps Engineering**.
-* My goal is to design robust, scalable, and secure cloud infrastructure while continuing to build high-performance applications using the **.NET** and **Java** ecosystems.
-* I am currently studying for the **AWS Cloud Practitioner** exam to validate my cloud architectural skills.
+While I have experience with a few different languages, I have a strong preference for the Java ecosystem. I enjoy the structure of object-oriented programming and am currently diving deeper into building clean, reliable backend services.
 
---------------------------------------------------------------------------------------------------------------------------
+**Current Focus:** Right now, I am teaching myself how to write better unit tests with JUnit because I want my code to be reliable in production.
 
-## I’m currently working on:
-
-* Building **[Static](https://github.com/CodeByMathabo/Static.git)**, a high-availability Java application designed for the South African Department of Home Affairs. It solves the "System is Down" bottleneck.
+---
 
 ## My Tech Stack:
 
-* **Cloud & DevOps:** AWS (Currently Studying), AWS SAM, Infrastructure as Code (IaC), AWS IAM, AWS Security Group, Docker, Docker Compose, Azure DevOps, Azure Pipelines, CI/CD.
-* **Languages:** C#, Java, JavaScript, SQL, HTML, CSS, PHP
-* **Frameworks:** .NET 8, Blazor, ASP.NET Identity, Entity Framework Core, Spring Boot, Laravel.
-* **Databases:** PostgreSQL, Azure SQL Database, LocalDb
-* **Concepts:** System Architecture, Cloud Infrastructure, Role-Based Access Control (RBAC), Secure API Design, Database Normalization, ACID compliance
+#### Languages & Frameworks
 
-## Featured Projects:
+ * **Java (Primary):** Spring Boot(Basic), REST APIs, JUnit
 
-* **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
-  * A modern web app built with .NET 8 and Blazor, fully containerized with Docker and automated via **Azure Pipelines** and **Azure App Service**.
-  
-* **[Mofani](https://github.com/CodeByMathabo/Mofani)**
-  * A comprehensive donation and volunteer management system featuring complex role-based security and Azure SQL integration automated via **Azure Pipelines** and    **Azure App Service**.
- 
-* **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**
-  * A backend API that lets users securely upload files which triggers an asynchronous metadata extraction process, featuring fully automated infrastructure provisioning via AWS SAM.
+ * **C# / .NET:** .NET 8, Blazor, ASP.NET Core, Entity Framework
 
-* **[Grit Ledger](https://github.com/CodeByMathabo/Grit-Ledger)**
-  * A PHP API that allows users to transfer "money" between accounts while ensuring money never disappears during a crash.
+ * **Web:** HTML, CSS, Basic PHP
+
+ * **Database:** SQL (PostgreSQL, Azure SQL, AWS RDS)
+
+#### Tools & Workflow
+
+ * **Version Control:** Git & GitHub
+
+ * **Deployment & Cloud:** Docker, Basic AWS & Azure knowledge
+
+ * **Practices:** Object-Oriented Programming (OOP), SDLC, CI/CD basics
+
+---
+
+## Projects:
+Here are a few projects I built to practice my coding skills and learn new concepts.
 
 * **[Velosales](https://github.com/CodeByMathabo/Velosales.git)**
-  * A feature that calculates how fast specific products are selling. It acts as a backend utility for a larger inventory system. It is a Java REST API that accepts sales data batches and returns stock velocity metrics.
+  * **Focus:** Algorithms & Data Processing
+    
+  *A Java utility I built to calculate "stock velocity", how fast specific products are selling over time. You send it a list of sales numbers, and it calculates how fast products are moving off the shelves. This helps figure out which items need to be restocked.*
+  
+  * **Tech:** Java, REST API
+  
+  * **What I learned:** Writing logic to process data batches efficiently.
 
-* **[Static](https://github.com/CodeByMathabo/Static.git)**
-  * A high-availability Java application designed for the South African Department of Home Affairs. It solves the "System is Down" bottleneck by introducing an automated, offline-first synchronization engine for administrative staff.
-----------------------------------------------------------------------------------------------------------------------------
+* **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**
+  * **Focus:** Backend Logic & File Handling
+    
+  *A Java API that allows users to upload files securely. As soon as a file is uploaded, the code automatically pulls out the important details (metadata) from it in the background.*
+  
+  * **Tech:** Java, AWS (Lambda/S3)
+  
+  * **What I learned:** How to handle asynchronous events and process files in the cloud.
 
-## How to contact me:
+* **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
+  * **Focus:** Full Stack .NET
+    
+  *A web application for client collaboration. I built this to get comfortable with the Microsoft ecosystem, using Blazor for the frontend and containerizing the app for easier deployment.*
+  
+  * **Tech:** C#, .NET 8, Blazor, Docker
+  
+  * **What I learned:** Building a full-stack application and using containers.
+  
+* **[Mofani](https://github.com/CodeByMathabo/Mofani)**
+  * **Focus:** Security & User Roles
+  
+  *A system for managing donations and volunteers. The complexity here was in the database design and security, ensuring that different users (like admins vs. volunteers) had exactly the right access permissions.*
+  
+  * **Tech:** C#, Azure SQL
+  
+  * **What I learned:** Implementing Role-Based Access Control (RBAC) and SQL relationships.
 
-* **Email:** motaung41mathabo@gmail.com
+* **[Grit Ledger](https://github.com/CodeByMathabo/Grit-Ledger)**
+ * **Focus:** Data Integrity
+
+ *A PHP API that simulates a banking transaction system. The main goal was to ensure that money transfers between accounts are safe and that funds never "disappear" if the system crashes midway through a request.*
+ 
+* **Tech:** PHP, SQL
+ 
+* **What I learned:** ACID compliance and preventing race conditions in databases.
+
+---
+
+## How to reach me:
+I'm always open for new opportunities, or feedback on my projects!
+
+* **Email:** motaung41mathabo@gmail.com 
