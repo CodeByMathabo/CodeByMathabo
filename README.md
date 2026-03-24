@@ -1,85 +1,73 @@
 ## Hi, I'm Mathabo Motaung
-I am an aspiring software developer with a passion for solving problems through code. I recently graduated and am looking for my first professional role where I can contribute and learn from a strong team.
+I am a systems-oriented IT professional specializing in infrastructure reliability, automation, and cloud deployments. While I completed my studies in Software Development, I discovered my real interest lies in DevOps and Systems Administration: building the environments and pipelines that allow code to run reliably.
 
-While I have experience with a few different languages, I have a strong preference for the Java ecosystem. I enjoy the structure of object-oriented programming and am currently diving deeper into building clean, reliable backend services.
+I leverage my analytical background to understand system bottlenecks, implement secure Role-Based Access Control (RBAC), and engineer fault-tolerant, zero-downtime environments.
 
-**Current Focus:** Right now, I am teaching myself how to write better unit tests with JUnit because I want my code to be reliable in production.
+**Current Focus:** I am currently expanding my knowledge in container orchestration and automated disaster recovery, building on my recent work with Docker and local CI/CD pipelines.
 
 ---
 
 ## My Tech Stack:
 
-#### Languages & Frameworks
+#### Infrastructure & Operations
 
- * **Java (Primary):** Spring Boot(Basic), REST APIs, JUnit
+ * **Deployment & Cloud:** Docker, AWS Cloud basics, Azure Cloud basics
 
- * **C# / .NET:** .NET 8, Blazor, ASP.NET Core, Entity Framework
+ * **OS & Scripting:** Linux (Ubuntu), Bash Scripting
 
- * **Web:** HTML, CSS, Basic PHP
+ * **Version Control & CI/CD:** Git, GitHub, Automated testing principles
 
- * **Database:** SQL (PostgreSQL, Azure SQL, AWS RDS)
+#### Application Architecture (Reading & Troubleshooting)
 
-#### Tools & Workflow
+ * **Back-End:** Java (Basic Spring Boot), C# (Basic .NET 8)
 
- * **Version Control:** Git & GitHub
+ * **Database:** SQL (PostgreSQL, Azure SQL, Database Migration Management)
 
- * **Deployment & Cloud:** Docker, Basic AWS & Azure knowledge
-
- * **Practices:** Object-Oriented Programming (OOP), SDLC, CI/CD basics
+ * **Key Concepts:** Infrastructure Management, RBAC Security, ACID Database Compliance
 
 ---
 
 ## Projects:
 Here are a few projects I built to practice my coding skills and learn new concepts.
 
-* **[Velosales](https://github.com/CodeByMathabo/Velosales.git)**
-  * **Focus:** Algorithms & Data Processing
+* **[Kaizen Flow](https://github.com/CodeByMathabo/Kaizen-Flow)**
+ * **Focus:** DevOps Automation & Zero-Touch Recovery
+
+ *A localized DevOps proof-of-concept demonstrating automated system recovery. I built a private Docker network simulating a central database and remote branch, with a continuous monitoring Bash script that detects simulated connection timeouts and autonomously executes host-level container reboots without manual IT intervention.*
+ 
+* **Tech:** Docker, Bash, YAML, Linux (Ubuntu), Nginx
+
+* **[Mofani](https://github.com/CodeByMathabo/Mofani)**
+  * **Focus:** Identity Management & Database Security
     
-  *A Java utility I built to calculate "stock velocity", how fast specific products are selling over time. You send it a list of sales numbers, and it calculates how fast products are moving off the shelves. This helps figure out which items need to be restocked.*
+  *A cloud-based Disaster Management System for donor data of The Gift Of The Givers Foundation. I focused heavily on the security infrastructure, implementing strict Role-Based Access Control (RBAC) to govern environment access and secure private records against unauthorized exposure.*
   
-  * **Tech:** Java, REST API
+  * **Tech:** Azure SQL, C#, Identity Management
+ 
+* **[Toro Track](https://github.com/CodeByMathabo/ToroTrack)**
+  * **Focus:** Containerization & Environment Migrations
+    
+  *Collaborated on integrating a .NET application into cloud environments for Toro Informatics (Pty)Ltd. My primary operational focus was managing safe database versioning using Entity Framework migrations and containerizing the application via Docker to ensure stable, isolated deployments.*
   
-  * **What I learned:** Writing logic to process data batches efficiently.
+  * **Tech:** Docker, C#, .NET 8, Entity Framework
 
 * **[S3entinel](https://github.com/CodeByMathabo/S3entinel)**
-  * **Focus:** Backend Logic & File Handling
+  * **Focus:** Event-Driven Cloud Architecture
     
-  *A Java API that allows users to upload files securely. As soon as a file is uploaded, the code automatically pulls out the important details (metadata) from it in the background.*
+  *An automated cloud utility utilizing AWS services. Configured asynchronous event triggers so that secure file uploads to an S3 bucket automatically trigger a background Lambda function for metadata extraction.*
   
-  * **Tech:** Java, AWS (Lambda/S3)
-  
-  * **What I learned:** How to handle asynchronous events and process files in the cloud.
-
-* **[ToroTrack | Client Collaboration Tool](https://github.com/CodeByMathabo/ToroTrack)**
-  * **Focus:** Full Stack .NET
-    
-  *A web application for client collaboration. I built this to get comfortable with the Microsoft ecosystem, using Blazor for the frontend and containerizing the app for easier deployment.*
-  
-  * **Tech:** C#, .NET 8, Blazor, Docker
-  
-  * **What I learned:** Building a full-stack application and using containers.
-  
-* **[Mofani](https://github.com/CodeByMathabo/Mofani)**
-  * **Focus:** Security & User Roles
-  
-  *A system for managing donations and volunteers. The complexity here was in the database design and security, ensuring that different users (like admins vs. volunteers) had exactly the right access permissions.*
-  
-  * **Tech:** C#, Azure SQL
-  
-  * **What I learned:** Implementing Role-Based Access Control (RBAC) and SQL relationships.
+  * **Tech:** AWS S3, AWS Lambda, Java
 
 * **[Grit Ledger](https://github.com/CodeByMathabo/Grit-Ledger)**
- * **Focus:** Data Integrity
+ * **Focus:** Fault Tolerance & ACID Compliance
 
- *A PHP API that simulates a banking transaction system. The main goal was to ensure that money transfers between accounts are safe and that funds never "disappear" if the system crashes midway through a request.*
+ *Designed a transactional API to simulate a banking environment. Engineered the database logic to enforce strict ACID compliance, preventing race conditions and ensuring data integrity even if the system experiences sudden mid-transaction failures.*
  
-* **Tech:** PHP, SQL
+* **Tech:** SQL, PHP
  
-* **What I learned:** ACID compliance and preventing race conditions in databases.
-
 ---
 
 ## How to reach me:
 I'm always open for new opportunities, or feedback on my projects!
 
-* **Email:** motaung41mathabo@gmail.com 
+* **Email:** mathabo44devops@gmail.com 
