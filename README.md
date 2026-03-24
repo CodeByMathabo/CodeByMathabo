@@ -3,7 +3,7 @@ I am a systems-oriented IT professional specializing in infrastructure reliabili
 
 I leverage my analytical background to understand system bottlenecks, implement secure Role-Based Access Control (RBAC), and engineer fault-tolerant, zero-downtime environments.
 
-**Current Focus:** I am currently expanding my knowledge in container orchestration and automated disaster recovery, building on my recent work with Docker and local CI/CD pipelines.
+**Current Focus:** I am currently expanding my knowledge in container orchestration and automated disaster recovery, building on my recent work with container orchestration and Infrastructure-as-Code (IaC).
 
 ---
 
