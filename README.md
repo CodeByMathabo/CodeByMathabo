@@ -1,9 +1,17 @@
 ## Hi, I'm Mathabo Motaung
-I am a systems-oriented IT professional specializing in infrastructure reliability, automation, and cloud deployments. While I completed my studies in Software Development, I discovered my real interest lies in DevOps and Systems Administration: building the environments and pipelines that allow code to run reliably.
+I graduated in Software Development. I have the initiative, resourcefulness, and boldness to solve problems or undertake new projects. I'm naturally analytical and independent. I think things through and pay close attention to detail. 
 
-I leverage my analytical background to understand system bottlenecks, implement secure Role-Based Access Control (RBAC), and engineer fault-tolerant, zero-downtime environments.
+---
+**Key Concepts:**
+I apply Object-Oriented Programming (OOP) principles. I implement SDLC, SQL, CI/CD pipeline, together with Git version control and where necessary RBAC Security, whenever I am working on a Software project.
 
-**Current Focus:** I am currently expanding my knowledge in container orchestration and automated disaster recovery, building on my recent work with container orchestration and Infrastructure-as-Code (IaC).
+---
+**Staying Up-to-date:**
+I leverage my self-driven nature to stay up to date with the latest technologies such as AI. I start by writing a clear system design spec so the LLM Model knows exactly what to do. If it is necessary, I use AI as an assistant to help speed up my development workflow instead of blindly copying and pasting. I review every the code to make sure I know how it works.This helps me to avoid pushing code or work that will break legacy code. In fact, looking at all my projects in this portfolio, they are well documented and include design diagrams.
+
+---
+**Current Focus:**
+I am currently expanding my knowledge in container orchestration and cloud services. Academically I am practically exposed to Azure cloud services, but outside my academic curriculum, I am learning AWS cloud services to keep up with industry standards.
 
 ---
 
@@ -15,20 +23,31 @@ I leverage my analytical background to understand system bottlenecks, implement 
 
  * **OS & Scripting:** Linux (Ubuntu), Bash Scripting
 
- * **Version Control & CI/CD:** Git, GitHub, Automated testing principles
+ * **Version Control & CI/CD:** Git, Automated testing principles
 
-#### Application Architecture (Reading & Troubleshooting)
+#### Application Architecture
 
- * **Back-End:** Java (Basic Spring Boot), C# (Basic .NET 8)
-
- * **Database:** SQL (PostgreSQL, Azure SQL, Database Migration Management)
-
- * **Key Concepts:** Infrastructure Management, RBAC Security, ACID Database Compliance
-
+ * **Back-End:** Java, Spring Boot, PHP, C#, .NET
+   
+ * **Front-End:** HTML, CSS, React.js, JavaScript, Node.js
+   
+ * **Database:** SQL (PostgreSQL, MySQL, Microsoft SQL Server)
+   
+ * **Testing:** Unit Tests I use JUnit, Integration Testing I use Postman, System Testing I use REST Assured, User Acceptance Testing I use Cucumber.
+   
+ * **Academic Exposure To Building:** Web Apps, Mobile Apps, Standalone Apps, Websites
+   
 ---
 
 ## Projects:
-Here are a few projects I built to practice my coding skills and learn new concepts.
+Here are a few projects I built to practice my coding skills and learn new concepts. 
+
+* **[VeloSales](https://github.com/CodeByMathabo/Velosales)**
+* **Focus:** REST API
+  
+  *A standalone tool that independently tracks how fast products are selling, especially in a e-commerce entity, it helps a business to keep the correct amount of stock in their warehouse or inventory.*
+  
+* **Tech:** Java, simple Spring Boot, PostgreSQL, JUnit, Mockito, Swagger UI.
 
 * **[Kaizen Flow](https://github.com/CodeByMathabo/Kaizen-Flow)**
  * **Focus:** DevOps Automation & Zero-Touch Recovery
@@ -70,4 +89,4 @@ Here are a few projects I built to practice my coding skills and learn new conce
 ## How to reach me:
 I'm always open for new opportunities, or feedback on my projects!
 
-* **Email:** mathabo44devops@gmail.com 
+* **Email:** motaung41mathabo@gmail.com 
