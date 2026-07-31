@@ -1,17 +1,17 @@
 ## Hi, I'm Mathabo Motaung
-I graduated in Software Development. I have the initiative, resourcefulness, and boldness to solve problems or undertake new projects. I'm naturally analytical and independent. I think things through and pay close attention to detail. 
+I graduated in Software Development. My approach to coding is methodical, I always want to understand the "why" behind a solution rather than just accepting the result. I prefer to take the time to really break down the requirements, test my logic, and debug thoroughly before moving forward. While I'm very comfortable working independently, I also know that asking the right questions is just as important as actually solving the problem.
 
 ---
 **Key Concepts:**
-I apply Object-Oriented Programming (OOP) principles. I implement SDLC, SQL, CI/CD pipeline, together with Git version control and where necessary RBAC Security, whenever I am working on a Software project.
+I build software using Object-Oriented Programming (OOP) principles within a full SDLC framework. My workflow integrates SQL, CI/CD pipelines, Git version control, and RBAC security to ensure robust, scalable, and secure applications.
 
 ---
 **Staying Up-to-date:**
-I leverage my self-driven nature to stay up to date with the latest technologies such as AI. I start by writing a clear system design spec so the LLM Model knows exactly what to do. If it is necessary, I use AI as an assistant to help speed up my development workflow instead of blindly copying and pasting. I review every the code to make sure I know how it works.This helps me to avoid pushing code or work that will break legacy code. In fact, looking at all my projects in this portfolio, they are well documented and include design diagrams.
+As a developer, I embrace modern tools like AI to stay efficient. When needed, I use AI to accelerate my workflow, but I always verify the logic and understand how it works before integrating it to avoid blindly copying and pasting. I start by writing a clear system design spec so the LLM knows exactly what I need. This discipline prevents me from breaking legacy code and ensures stability. You’ll notice that all my projects in this portfolio are well-documented and include design diagrams.
 
 ---
 **Current Focus:**
-I am currently expanding my knowledge in container orchestration and cloud services. Academically I am practically exposed to Azure cloud services, but outside my academic curriculum, I am learning AWS cloud services to keep up with industry standards.
+I am currently expanding my knowledge in container orchestration and cloud services. While my academic background gave me a practical foundation in Azure, I’m independently learning AWS to keep up with industry standards.
 
 ---
 
@@ -33,7 +33,7 @@ I am currently expanding my knowledge in container orchestration and cloud servi
    
  * **Database:** SQL (PostgreSQL, MySQL, Microsoft SQL Server)
    
- * **Testing:** Unit Tests I use JUnit, Integration Testing I use Postman, System Testing I use REST Assured, User Acceptance Testing I use Cucumber.
+ * **Testing:** JUnit, Postman, REST Assured, Cucumber.
    
  * **Academic Exposure To Building:** Web Apps, Mobile Apps, Standalone Apps, Websites
    
