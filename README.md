@@ -1,5 +1,5 @@
 ## Hi, I'm Mathabo Motaung
-I graduated in Software Development. My approach to coding is methodical, so I prefer to understand the "why" behind a solution rather than just accepting the result. I care to take the time to really break down the requirements, test my logic, and debug thoroughly before moving forward. While I'm very comfortable working independently, I also know that asking the right questions is just as important as actually solving the problem.
+I graduated in Software Development. My approach to development is methodical, so I prefer to understand the "why" behind a solution rather than just accepting the result. I care to take the time to really break down the requirements, test my logic, and debug thoroughly before moving forward. While I'm very comfortable working independently, I also know that asking the right questions is just as important as actually solving the problem.
 
 ---
 **Key Concepts:**
