@@ -35,7 +35,7 @@ I am currently expanding my knowledge in container orchestration and cloud servi
    
  * **Testing:** JUnit, Postman, REST Assured, Cucumber.
    
- * **Academic Exposure To Building:** Web Apps, Mobile Apps, Standalone Apps, Websites
+ * **Foundation in building:** Web Apps, Mobile Apps, Standalone Apps, Websites
    
 ---
 
