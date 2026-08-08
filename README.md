@@ -3,7 +3,7 @@ I graduated in Software Development. My approach to development is methodical, s
 
 ---
 **Key Concepts:**
-I build software using Object-Oriented Programming (OOP) principles within a full SDLC framework. My workflow integrates SQL, CI/CD pipelines, Git version control, and RBAC security to ensure robust, scalable, and secure applications.
+I build software using Object-Oriented Programming (OOP) principles within a full SDLC framework, following Agile methodologies to ensure iterative, high-quality delivery. My workflow integrates SQL, CI/CD pipelines, Git version control, and RBAC security to ensure robust, scalable, and secure applications.
 
 ---
 **Staying Up-to-date:**
